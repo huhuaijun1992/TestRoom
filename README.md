@@ -1,0 +1,3 @@
+# TestRoom
+room简单的使用
+作者只是大概的了解使用下Google推出的官方orm解决方案，作者会持续完善这个demo
